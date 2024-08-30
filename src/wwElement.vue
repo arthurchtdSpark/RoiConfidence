@@ -23,7 +23,7 @@ export default {
       return {
         chart: {
           type: 'bar',
-          backgroundColor:'transparent',
+          backgroundColor:'transparent'
         },
         title: {
           text: null,
@@ -71,7 +71,6 @@ export default {
             color: 'rgb(104, 150, 233)', // Couleur pour Upper bound
           }, 
         ],
-      }
       };
     },
   },
